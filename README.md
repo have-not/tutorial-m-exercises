@@ -1,2 +1,2 @@
-# tutorial-m-exercises
+# tutorial-ml-exercises
 

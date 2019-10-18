@@ -1,2 +1,2 @@
-# tutorial-ml-exercises
+# 機械学習演習問題
 
